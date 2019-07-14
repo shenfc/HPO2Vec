@@ -1,7 +1,6 @@
 """
 node2vec
 Aditya Grover and Jure Leskovec
-
 """
 
 import numpy as np
