@@ -27,14 +27,14 @@ __Code References__
    url          = {https://doi.org/10.5281/zenodo.1408472}
 }
 
-Please find details on how to generate graph pickle based on pairwise node input, such as
+Details on how to generate graph pickle based on pairwise node input, such as
 
 ```
 236 186
 122 285
 24 346
 ```
-and how to generate embeddings based on pickle file in Ref 2.
+and how to generate embeddings based on pickle file can be found in Ref 2.
 
 __Citing__
 
