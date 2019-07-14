@@ -27,15 +27,6 @@ __Code References__
    url          = {https://doi.org/10.5281/zenodo.1408472}
 }
 
-Details on how to generate graph pickle based on the pairwise node input, such as
-
-```
-236 186
-122 285
-24 346
-```
-and how to generate embeddings based on the pickle file can be found in Ref 2.
-
 __Citing__
 
 If you find HPO2Vec+ useful for your research, please cite the following paper (Reference BibTex will be updated later after the final version come out):
