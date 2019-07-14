@@ -1,7 +1,5 @@
 # HPO2Vec+
 
-To be updated
-
 __Requirements__
 
 - python 3.6
