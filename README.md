@@ -34,7 +34,7 @@ Please find details on how to generate graph pickle based on pairwise node input
 122 285
 24 346
 ```
-and how to implement embeddings based on pickle file in Ref 2.
+and how to generate embeddings based on pickle file in Ref 2.
 
 __Citing__
 
