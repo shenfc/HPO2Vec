@@ -29,6 +29,6 @@ __Code References__
 
 __Citing__
 
-If you find HPO2Vec+ useful for your research, please cite the following paper (Reference BibTex will be updated later after the final version come out):
+If you find HPO2Vec+ useful for your research, please cite the following paper:
 
-https://www.sciencedirect.com/science/article/pii/S1532046419301650?via%3Dihub
+Shen F, Peng S, Fan Y, Wen A, Liu S, Wang Y, Wang L, Liu H. HPO2Vec+: Leveraging heterogeneous knowledge resources to enrich node embeddings for the Human Phenotype Ontology. Journal of biomedical informatics. 2019 Aug 1;96:103246.
